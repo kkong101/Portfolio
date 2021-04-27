@@ -7,7 +7,7 @@
 + 공연예술 통합전산 API를 이용하여 사용자들에게 공연예술 정보 제공, 제공 받은 줄거리 기반 공연예술 작품간 추천(Doc2Vec 알고리즘), 좌석 기반 예매 시스템 구축 
 
 ## 발표 및 시연 영상
-[유튜브 바로가기](https://www.youtube.com/watch?app=desktop&v=GESqyV1zT_k&list=PLedGoSru79493-00o_i35ujkkHls3Zvjk&index=4) (My part : 26:42 ~ 31:25)
+[Youtube 바로가기](https://www.youtube.com/watch?app=desktop&v=GESqyV1zT_k&list=PLedGoSru79493-00o_i35ujkkHls3Zvjk&index=4) (My part : 26:42 ~ 31:25)
 
 ## 공헌한 내용
 참여도: 40%
