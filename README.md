@@ -10,14 +10,14 @@
 [Youtube 바로가기](https://www.youtube.com/watch?app=desktop&v=GESqyV1zT_k&list=PLedGoSru79493-00o_i35ujkkHls3Zvjk&index=4) (My part : 26:42 ~ 31:25)
 
 ## 공헌한 내용
-참여도: 40%
-검색 결과 데이터 요청 및 출력: Java, jQuery, Ajax, JSON, XML
-웹 화면 구성: HTML, CSS, BootStrap, JavaScript
-디자인 패턴 : MVC Pattern
-결과를 얻어오기 위한 서버 액션: Java, Servlet, JSP, JSTL, EL
-DB액션 처리: JDBC
-개발 Tool : Eclips, Apache Tomcat v9.0
-버전관리 및 코드공유 : GitHub
++ 참여도: 40%
++ 검색 결과 데이터 요청 및 출력: Java, jQuery, Ajax, JSON, XML
++ 웹 화면 구성: HTML, CSS, BootStrap, JavaScript
++ 디자인 패턴 : MVC Pattern
++ 결과를 얻어오기 위한 서버 액션: Java, Servlet, JSP, JSTL, EL
++ DB액션 처리: JDBC
++ 개발 Tool : Eclips, Apache Tomcat v9.0
++ 버전관리 및 코드공유 : GitHub
 
 
 ## 
