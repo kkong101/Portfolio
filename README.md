@@ -22,9 +22,7 @@
 
 
 ## IT KOREA 교육 과정 정보 
-+ 이수 과정명
-- AI 활용 소프트웨어 개발 및 응용과정A
-+ 교육 기간
-- 2021.01.26 ~ 2021.07.07(예정) 
++ 이수 과정명 - `AI 활용 소프트웨어 개발 및 응용과정A`
++ 교육 기간 - `2021.01.26 ~ 2021.07.07(예정)`
 + 교육 내용
-- Java, Javascript, Ajax, Json,  Python, Oracle, ,Mysql, web server(Tomcat), web crawling(Beautiful Soup, selenium), Data analysis(Numpy, Pandas), Data virtualization(Mathplotlib, Seaborn), Deeplearning(tenserflow, scikit-learn)
+- `Java, Javascript, Ajax, Json,  Python, Oracle, ,Mysql, web server(Tomcat), web crawling(Beautiful Soup, selenium), Data analysis(Numpy, Pandas), Data virtualization(Mathplotlib, Seaborn), Deeplearning(tenserflow, scikit-learn)`
