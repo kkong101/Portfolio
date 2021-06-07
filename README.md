@@ -1,10 +1,8 @@
 # 공석원 포트폴리오 
 
-## Project file 및 Commit state
-+ https://github.com/Jangho4273/RecoPAY
 
 ## 프로젝트 (2021.04.02 ~ 2021.04.23, 총 22일)
-+ 공연예술 추천 및 예매 반응형 웹사이트 [바로가기] (https://github.com/kkong101/SpringWeb)
++ 공연예술 추천 및 예매 반응형 웹사이트(Spring-based Web) [바로가기] (https://github.com/Jangho4273/RecoPAY)
 
 ## 개요
 + 공연예술 통합전산 API를 이용하여 사용자들에게 공연예술 정보 제공, 제공 받은 줄거리 기반 공연예술 작품간 추천(Doc2Vec 알고리즘), 좌석 기반 예매 시스템 구축 
