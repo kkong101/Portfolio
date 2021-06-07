@@ -1,5 +1,8 @@
 # 공석원 포트폴리오 
 
+## Project file 및 Commit state
++ https://github.com/Jangho4273/RecoPAY
+
 ## 프로젝트 (2021.04.02 ~ 2021.04.23, 총 22일)
 + 공연예술 추천 및 예매 반응형 웹사이트 [바로가기] (https://github.com/kkong101/SpringWeb)
 
@@ -20,13 +23,10 @@
 + 버전관리 및 코드공유 : GitHub
 
 
-## 
-
-
 ## IT KOREA 교육 과정 정보 
 + 이수 과정명
 - AI 활용 소프트웨어 개발 및 응용과정A
 + 교육 기간
 - 2021.01.26 ~ 2021.07.07(예정) 
 + 교육 내용
-- Java, Python, 
+- Java, Javascript, Ajax, Json,  Python, Oracle, ,Mysql, web server(Tomcat), web crawling(Beautiful Soup, selenium), Data analysis(Numpy, Pandas), Data virtualization(Mathplotlib, Seaborn), Deeplearning(tenserflow, scikit-learn)
