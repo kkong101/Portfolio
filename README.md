@@ -16,7 +16,7 @@
 + **웹 화면 구성**: `HTML, CSS, BootStrap, JavaScript`
 + **디자인 패턴** : `MVC Pattern`
 + **결과를 얻어오기 위한 서버 액션** : `Java, Servlet, JSP, JSTL, EL`
-+ **Back-end** : `Oracle, JDBC, MyBatis, Maven, ERD, Spring Security`
++ **Back-end** : `Spring, Oracle, JDBC, MyBatis, Maven, ERD, Spring Security`
 + **개발 Tool** : `Eclips, Apache Tomcat v9.0, PostMan`
 + **버전관리 및 코드공유** : `GitHub`
 
