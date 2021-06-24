@@ -12,7 +12,7 @@
 
 ## 공헌한 내용
 + 개발 비중 : 50%
-+ **검색 결과 데이터 요청 및 출력**: `Java, jQuery, Ajax, JSON, XML`
++ **검색 결과 데이터 요청 및 출력**: `Java, jQuery, Ajax, JSON, XML,Restful API`
 + **웹 화면 구성**: `HTML, CSS, BootStrap, JavaScript`
 + **디자인 패턴** : `MVC Pattern`
 + **결과를 얻어오기 위한 서버 액션** : `Java, Servlet, JSP, JSTL, EL`
